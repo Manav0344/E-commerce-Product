@@ -1,5 +1,6 @@
-# E-Commerce Product Entry Form 🛍️
 
+# E-Commerce Product Entry Form 🛍️
+https://manav0344.github.io/E-commerce-Product/
 ## Project Overview
 The **E-Commerce Product Entry Form** is a dynamic web application built using **HTML, CSS (Bootstrap), and JavaScript**. It allows users to add new products to an e-commerce catalog by filling out a form. Upon submission, the product details are displayed immediately as a **card layout** without reloading the page. This project demonstrates practical usage of JavaScript DOM manipulation, form handling, and responsive UI design.
 
